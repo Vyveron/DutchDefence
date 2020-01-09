@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5891c840ca9d434aad8d58f91900189, type: 3}
+  m_Name: Music preset
+  m_EditorClassIdentifier: 
+  music:
+  - clip: {fileID: 8300000, guid: a949f103e48a17c4a9fc13c515c5898f, type: 3}
+    name: Metallica - One
+    image: {fileID: 21300000, guid: 70d7f21eca258ba47974b459de1b9ed2, type: 3}
+  - clip: {fileID: 8300000, guid: 0e580c13cf5fac24987e12f650b4cf48, type: 3}
+    name: Tool - Sober
+    image: {fileID: 21300000, guid: cf8656a2ac754664791e383d10c6c69a, type: 3}
+  - clip: {fileID: 8300000, guid: 8fa56b0ca489e4e448d299235c4c28ee, type: 3}
+    name: Metallica - Master Of Puppets
+    image: {fileID: 21300000, guid: 22511fa9550dc6748878eb3ad06068a1, type: 3}
+  - clip: {fileID: 8300000, guid: 38363f0f269ae1943a417b8b349221d2, type: 3}
+    name: Slipknot - Killpop
+    image: {fileID: 21300000, guid: 74f5168912415934b80dc9567212a88f, type: 3}
+  - clip: {fileID: 8300000, guid: dd58a04587b4ace439e561e4dcf22cdd, type: 3}
+    name: Motorhead - The Game
+    image: {fileID: 21300000, guid: 855384ac875afa2498caddb81d8c2204, type: 3}
+  - clip: {fileID: 8300000, guid: 7a03854c863d18448a689f4e1a6d0eb1, type: 3}
+    name: Tool - Fear Inoculum
+    image: {fileID: 21300000, guid: 7a156ef79a4bf884daf03c2f2a167c9f, type: 3}
+  - clip: {fileID: 8300000, guid: 97b3c5d5e0c5eab4295f19bfbb636294, type: 3}
+    name: SOAD  - Hypnotize
+    image: {fileID: 21300000, guid: dbfef2e04200acf4298a63e81ce56d23, type: 3}
+  - clip: {fileID: 8300000, guid: 929b63ebd3fe7fd4db21c763549fdf79, type: 3}
+    name: Judas Priest - Painkiller
+    image: {fileID: 21300000, guid: 1620d858e74e700489351bb7c5f08f36, type: 3}
+  - clip: {fileID: 8300000, guid: 70c9c7014e5b6054384836381a11df51, type: 3}
+    name: Iron Maiden - Hallowed By The Name
+    image: {fileID: 21300000, guid: 64d80e112c7419e4c940fcda1b38e8a2, type: 3}
+  - clip: {fileID: 8300000, guid: f3e142a86523b0d4db184dedbffcffb1, type: 3}
+    name: Slipknot - Birth Of The Cruel
+    image: {fileID: 21300000, guid: a7cf11fcabede814a98a54e3a70779b1, type: 3}
+  - clip: {fileID: 8300000, guid: 5c36116361b15724cb787fa17c43cd8e, type: 3}
+    name: Ghost
+    image: {fileID: 21300000, guid: 2bf6453cff4126047a05d0ef51c8d444, type: 3}
+  - clip: {fileID: 8300000, guid: 244fb22005c3b954db0a49a9f4c72f24, type: 3}
+    name: Iron Maiden - The Trooper
+    image: {fileID: 21300000, guid: 9cf0b0bd9d9702743b051c340e38e923, type: 3}
+  - clip: {fileID: 8300000, guid: 4b6ecf6ea8417ee4b9f6832aee594369, type: 3}
+    name: Slipknot - All Out Life
+    image: {fileID: 21300000, guid: 2ad9f165430c24b44a2aab38aea75c9b, type: 3}
+  - clip: {fileID: 8300000, guid: d3ea27e97fb1d4a49bb642db22d08714, type: 3}
+    name: Slipknot - Unsainted
+    image: {fileID: 21300000, guid: 7aa777892565e75449dd51f704c5355b, type: 3}
+  - clip: {fileID: 8300000, guid: dbcf65609f379164fb77e09c31d26fc3, type: 3}
+    name: Ghost - Dance Macabre
+    image: {fileID: 21300000, guid: 9b91147a5c313f642a48f1533fc0393e, type: 3}
+  - clip: {fileID: 8300000, guid: c8b022e0c5bac5d499f2c2d78526f0c8, type: 3}
+    name: Iron Maiden - Run To The Hills
+    image: {fileID: 21300000, guid: 4950659990b21da47bf71c887a5e4d92, type: 3}
+  - clip: {fileID: 8300000, guid: a1aea2a102f72e348914243e9798c730, type: 3}
+    name: Metallica - Enter Sandman
+    image: {fileID: 21300000, guid: 0acb2f401a68a8040ac8a52f0fd31e81, type: 3}
+  - clip: {fileID: 8300000, guid: c53d6608fde184a47b29cc71d1507c7f, type: 3}
+    name: Metallica - Ride The Lightning
+    image: {fileID: 21300000, guid: ea61601044bd1ab4ea86e3b4d1a69e46, type: 3}
+  - clip: {fileID: 8300000, guid: 324b174670c3f1c4f9df45def8176450, type: 3}
+    name: Ghost - Rats
+    image: {fileID: 21300000, guid: 59437edd916941849ae9a094028fb600, type: 3}

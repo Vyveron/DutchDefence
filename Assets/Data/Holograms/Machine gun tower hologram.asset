@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 290994ebd883f16409616f4e171a3130, type: 3}
+  m_Name: Machine gun tower hologram
+  m_EditorClassIdentifier: 
+  hologramSprite: {fileID: -6193408377830003024, guid: e3632f94203f23b46baa21ab90cfc206,
+    type: 3}
+  canBuildColor: {r: 0, g: 1, b: 0, a: 0.75}
+  cantBuildColor: {r: 1, g: 0, b: 0, a: 0.75}
+  buildingData: {fileID: 11400000, guid: bba366d686e41a644a846715b66f4d9f, type: 2}

@@ -1,0 +1,2383 @@
+fileFormatVersion: 2
+guid: 44d97fe28f523f24d93413cbd11a6df8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5557916266474174897
+    second: Snowy-Top-Down-2D-Game-Tileset_0
+  - first:
+      213: 1328767214313372450
+    second: Snowy-Top-Down-2D-Game-Tileset_1
+  - first:
+      213: -2416170281033278315
+    second: Snowy-Top-Down-2D-Game-Tileset_2
+  - first:
+      213: 1736955044949544393
+    second: Snowy-Top-Down-2D-Game-Tileset_3
+  - first:
+      213: -5614912250770499071
+    second: Snowy-Top-Down-2D-Game-Tileset_4
+  - first:
+      213: 6266637758726109182
+    second: Snowy-Top-Down-2D-Game-Tileset_5
+  - first:
+      213: 7878791399258828578
+    second: Snowy-Top-Down-2D-Game-Tileset_6
+  - first:
+      213: 2958636758355526764
+    second: Snowy-Top-Down-2D-Game-Tileset_7
+  - first:
+      213: -4751428789807922547
+    second: Snowy-Top-Down-2D-Game-Tileset_8
+  - first:
+      213: 6696861762645243769
+    second: Snowy-Top-Down-2D-Game-Tileset_9
+  - first:
+      213: -8293802035632123966
+    second: Snowy-Top-Down-2D-Game-Tileset_10
+  - first:
+      213: -8493928937194623578
+    second: Snowy-Top-Down-2D-Game-Tileset_11
+  - first:
+      213: 7940375631291796277
+    second: Snowy-Top-Down-2D-Game-Tileset_12
+  - first:
+      213: -6908190616789399911
+    second: Snowy-Top-Down-2D-Game-Tileset_13
+  - first:
+      213: 3050178053456450699
+    second: Snowy-Top-Down-2D-Game-Tileset_14
+  - first:
+      213: 4555383418160152722
+    second: Snowy-Top-Down-2D-Game-Tileset_15
+  - first:
+      213: 5396202880640225217
+    second: Snowy-Top-Down-2D-Game-Tileset_16
+  - first:
+      213: -6776083215800793804
+    second: Snowy-Top-Down-2D-Game-Tileset_17
+  - first:
+      213: 5035396943694852584
+    second: Snowy-Top-Down-2D-Game-Tileset_18
+  - first:
+      213: 5568136778842687825
+    second: Snowy-Top-Down-2D-Game-Tileset_19
+  - first:
+      213: -7590455447053888674
+    second: Snowy-Top-Down-2D-Game-Tileset_20
+  - first:
+      213: -5046170568343928867
+    second: Snowy-Top-Down-2D-Game-Tileset_21
+  - first:
+      213: -667645965046853287
+    second: Snowy-Top-Down-2D-Game-Tileset_22
+  - first:
+      213: -3978379201995256113
+    second: Snowy-Top-Down-2D-Game-Tileset_23
+  - first:
+      213: 6413097744180335449
+    second: Snowy-Top-Down-2D-Game-Tileset_24
+  - first:
+      213: 3815478852979407715
+    second: Snowy-Top-Down-2D-Game-Tileset_25
+  - first:
+      213: 9196991906436877178
+    second: Snowy-Top-Down-2D-Game-Tileset_26
+  - first:
+      213: -8129778118189209169
+    second: Snowy-Top-Down-2D-Game-Tileset_27
+  - first:
+      213: 3221198189554405856
+    second: Snowy-Top-Down-2D-Game-Tileset_28
+  - first:
+      213: -1251336145360995201
+    second: Snowy-Top-Down-2D-Game-Tileset_29
+  - first:
+      213: -1972511955033035927
+    second: Snowy-Top-Down-2D-Game-Tileset_30
+  - first:
+      213: -2175326746880700847
+    second: Snowy-Top-Down-2D-Game-Tileset_31
+  - first:
+      213: 5485686564769152562
+    second: Snowy-Top-Down-2D-Game-Tileset_32
+  - first:
+      213: -6841924659930656629
+    second: Snowy-Top-Down-2D-Game-Tileset_33
+  - first:
+      213: 1936655774625112751
+    second: Snowy-Top-Down-2D-Game-Tileset_34
+  - first:
+      213: 4830143500804655166
+    second: Snowy-Top-Down-2D-Game-Tileset_35
+  - first:
+      213: -2763006558099496664
+    second: Snowy-Top-Down-2D-Game-Tileset_36
+  - first:
+      213: 3912007248047934482
+    second: Snowy-Top-Down-2D-Game-Tileset_37
+  - first:
+      213: -3384043702798886346
+    second: Snowy-Top-Down-2D-Game-Tileset_38
+  - first:
+      213: 7056331350833909012
+    second: Snowy-Top-Down-2D-Game-Tileset_39
+  - first:
+      213: -9153060325730144567
+    second: Snowy-Top-Down-2D-Game-Tileset_40
+  - first:
+      213: -2388296048047153078
+    second: Snowy-Top-Down-2D-Game-Tileset_41
+  - first:
+      213: -7963885271162739951
+    second: Snowy-Top-Down-2D-Game-Tileset_42
+  - first:
+      213: 3378689792933126598
+    second: Snowy-Top-Down-2D-Game-Tileset_43
+  - first:
+      213: 8754042342708648409
+    second: Snowy-Top-Down-2D-Game-Tileset_44
+  - first:
+      213: -6919576675534096433
+    second: Snowy-Top-Down-2D-Game-Tileset_45
+  - first:
+      213: -1689851248480171478
+    second: Snowy-Top-Down-2D-Game-Tileset_46
+  - first:
+      213: -4650333134995648707
+    second: Snowy-Top-Down-2D-Game-Tileset_47
+  - first:
+      213: -5255698622239841972
+    second: Snowy-Top-Down-2D-Game-Tileset_48
+  - first:
+      213: -8332332397622076338
+    second: Snowy-Top-Down-2D-Game-Tileset_49
+  - first:
+      213: -8919287342139344904
+    second: Snowy-Top-Down-2D-Game-Tileset_50
+  - first:
+      213: -9051935388752689611
+    second: Snowy-Top-Down-2D-Game-Tileset_51
+  - first:
+      213: 8671380986060023678
+    second: Snowy-Top-Down-2D-Game-Tileset_52
+  - first:
+      213: 4795820505911329838
+    second: Snowy-Top-Down-2D-Game-Tileset_53
+  - first:
+      213: -5452345084644017158
+    second: Snowy-Top-Down-2D-Game-Tileset_54
+  - first:
+      213: 3158605107300898442
+    second: Snowy-Top-Down-2D-Game-Tileset_55
+  - first:
+      213: -7043400995325934281
+    second: Snowy-Top-Down-2D-Game-Tileset_56
+  - first:
+      213: -3278654002333966908
+    second: Snowy-Top-Down-2D-Game-Tileset_57
+  - first:
+      213: 2847052629648628421
+    second: Snowy-Top-Down-2D-Game-Tileset_58
+  - first:
+      213: 5873497250275425359
+    second: Snowy-Top-Down-2D-Game-Tileset_59
+  - first:
+      213: 3491652188513509959
+    second: Snowy-Top-Down-2D-Game-Tileset_60
+  - first:
+      213: 2161534635010244205
+    second: Snowy-Top-Down-2D-Game-Tileset_61
+  - first:
+      213: 7758381039666602264
+    second: Snowy-Top-Down-2D-Game-Tileset_62
+  - first:
+      213: 2681044975695217820
+    second: Snowy-Top-Down-2D-Game-Tileset_63
+  - first:
+      213: 7366758041475234840
+    second: Snowy-Top-Down-2D-Game-Tileset_65
+  - first:
+      213: -6649045959968972000
+    second: Snowy-Top-Down-2D-Game-Tileset_66
+  - first:
+      213: -4697368348529754546
+    second: Snowy-Top-Down-2D-Game-Tileset_67
+  - first:
+      213: 7066322796558963873
+    second: Snowy-Top-Down-2D-Game-Tileset_68
+  - first:
+      213: 5106859417878174997
+    second: Snowy-Top-Down-2D-Game-Tileset_69
+  - first:
+      213: -3498535644278170553
+    second: Snowy-Top-Down-2D-Game-Tileset_70
+  - first:
+      213: -2683817847969299562
+    second: Snowy-Top-Down-2D-Game-Tileset_72
+  - first:
+      213: 939194328672119873
+    second: Snowy-Top-Down-2D-Game-Tileset_73
+  - first:
+      213: -9005941743846708174
+    second: Snowy-Top-Down-2D-Game-Tileset_74
+  - first:
+      213: -8509142898068529159
+    second: Snowy-Top-Down-2D-Game-Tileset_75
+  - first:
+      213: -7715904366478007996
+    second: Snowy-Top-Down-2D-Game-Tileset_76
+  - first:
+      213: 8943777379193078921
+    second: Snowy-Top-Down-2D-Game-Tileset_77
+  - first:
+      213: 8410954493398025872
+    second: Snowy-Top-Down-2D-Game-Tileset_78
+  - first:
+      213: 8538057130738464025
+    second: Snowy-Top-Down-2D-Game-Tileset_80
+  - first:
+      213: 8570599766291701022
+    second: Snowy-Top-Down-2D-Game-Tileset_81
+  - first:
+      213: -4365600608719203610
+    second: Snowy-Top-Down-2D-Game-Tileset_82
+  - first:
+      213: -282182951688234944
+    second: Snowy-Top-Down-2D-Game-Tileset_83
+  - first:
+      213: 6929244408303612666
+    second: Snowy-Top-Down-2D-Game-Tileset_86
+  - first:
+      213: 4232227179155683028
+    second: Snowy-Top-Down-2D-Game-Tileset_64
+  - first:
+      213: 783617963475873861
+    second: Snowy-Top-Down-2D-Game-Tileset_87
+  - first:
+      213: 4633078134347348667
+    second: Snowy-Top-Down-2D-Game-Tileset_88
+  - first:
+      213: -1034681144735447496
+    second: Snowy-Top-Down-2D-Game-Tileset_89
+  - first:
+      213: -7216186371891844883
+    second: Snowy-Top-Down-2D-Game-Tileset_90
+  - first:
+      213: 2839057409088504812
+    second: Snowy-Top-Down-2D-Game-Tileset_91
+  - first:
+      213: -5357434084597118512
+    second: Snowy-Top-Down-2D-Game-Tileset_92
+  - first:
+      213: -3182124356462386888
+    second: Snowy-Top-Down-2D-Game-Tileset_71
+  - first:
+      213: -4381636430874408857
+    second: Snowy-Top-Down-2D-Game-Tileset_79
+  - first:
+      213: -5505874729321193748
+    second: Snowy-Top-Down-2D-Game-Tileset_84
+  - first:
+      213: 3028561791874310414
+    second: Snowy-Top-Down-2D-Game-Tileset_85
+  - first:
+      213: 2290988570548258863
+    second: Snowy-Top-Down-2D-Game-Tileset_93
+  - first:
+      213: -5611018257824996331
+    second: Snowy-Top-Down-2D-Game-Tileset_94
+  - first:
+      213: -2387193213735097712
+    second: Snowy-Top-Down-2D-Game-Tileset_95
+  - first:
+      213: 5138648865967916981
+    second: Snowy-Top-Down-2D-Game-Tileset_96
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 99
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 747
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c207133d2319043932c4224e6f7a58
+      internalID: -5557916266474174897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 747
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d2c4c6f77a21648a59403931976d24
+      internalID: 1328767214313372450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 747
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59749d4e6f15a0469e3ee5c025221ee
+      internalID: -2416170281033278315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 747
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7857e14afd6b34f9739054fc62de08
+      internalID: 1736955044949544393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 747
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83699acf973bfd43bcf0b3e60827330
+      internalID: -5614912250770499071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 840
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9430bf8b00973334db0bcccab44b7e2f
+      internalID: 6266637758726109182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 747
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24e892ce42d3794987e5eeb28d6a3aa
+      internalID: 7878791399258828578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 747
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8b2eb92fa1af84e86f5db0e10d4f9b
+      internalID: 2958636758355526764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 747
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbb52ab5bb907040a6bbce9f8397e91
+      internalID: -4751428789807922547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 747
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6baabab9cf4174ca6f8d756c77c7bf
+      internalID: 6696861762645243769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 818
+        width: 70
+        height: 93
+      alignment: 9
+      pivot: {x: 0.54242814, y: 0.21258414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1317642bcbed5145ae26c21f5330184
+      internalID: -8293802035632123966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 820
+        width: 61
+        height: 90
+      alignment: 9
+      pivot: {x: 0.50423646, y: 0.15272963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb392e6191172e468746d25ee5e1e6e
+      internalID: -8493928937194623578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 760
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c05df7c0a43cf4984cf58a6dac191a
+      internalID: 7940375631291796277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 613
+        width: 104
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5078219, y: 0.1986952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094319da565e1b341901399fa456f08c
+      internalID: -6908190616789399911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 740
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948ea1e67e3b46843912a5e7628d6241
+      internalID: 3050178053456450699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 637
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a39f059800f24d4fadf29d827cd487e
+      internalID: 4555383418160152722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 637
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459f680e13c015543863a169bda6eb7f
+      internalID: 5396202880640225217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 637
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428d125cf05762145ae750e496c68076
+      internalID: -6776083215800793804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 637
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e94be37439ea34f87414c6068821e1
+      internalID: 5035396943694852584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 637
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96af1c843d7f3c14fb06737cb839fc16
+      internalID: 5568136778842687825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 637
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cee96a1abb68741b6f719521771fe5
+      internalID: -7590455447053888674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 637
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db48c6fd1cc2d04eac06a445654f3f3
+      internalID: -5046170568343928867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 637
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa587d1646ae0d044bc6b0514bcf208b
+      internalID: -667645965046853287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 637
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1c150e8ee818840a58d1ba6ce84af3
+      internalID: -3978379201995256113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 526
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfc8c5c43859a8489680dd165a2e05b
+      internalID: 6413097744180335449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 526
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685bde7a51b8de240aaebe4c6929f536
+      internalID: 3815478852979407715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 632
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a9fb7bc48273e489e7f8d74ca320e4
+      internalID: 9196991906436877178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_27
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 628
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f289c16ae00fe408d3b1a232e39c6d
+      internalID: -8129778118189209169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_28
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 628
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de81bee5b771a584092865881105b616
+      internalID: 3221198189554405856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_29
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 526
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ecbadcc30d0cb468141a2a8879366b
+      internalID: -1251336145360995201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_30
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 526
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84f667a85174e049a78b9361caaa457
+      internalID: -1972511955033035927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_31
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 526
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8eb653d2caa1545bd9e5cad9de75ec
+      internalID: -2175326746880700847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_32
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 526
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20196a5e7fd9654bba544f0e2116964
+      internalID: 5485686564769152562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_33
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 526
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b15c4c5b38dfc479d6477180337fe0
+      internalID: -6841924659930656629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_34
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 526
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9ab10937c616e44bfa81c8752ea081
+      internalID: 1936655774625112751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_35
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 526
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac720af1cf5befb4784b3a5e159724bf
+      internalID: 4830143500804655166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_36
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 600
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5623c45220d0de74a83837012787d176
+      internalID: -2763006558099496664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_38
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 536
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00487912684ba5142b2b19c5a17a33f4
+      internalID: -3384043702798886346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_39
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 506
+        width: 103
+        height: 84
+      alignment: 9
+      pivot: {x: 0.52696806, y: 0.24747431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62379c83578fea04c88775f419f664e4
+      internalID: 7056331350833909012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_40
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 416
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88295b11052d3e64c82943ce1ea349d7
+      internalID: -9153060325730144567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_41
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 416
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9771abeed87f2384981133f7603bc620
+      internalID: -2388296048047153078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_42
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 416
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5836dac7b3c59a44bbca636ea138a436
+      internalID: -7963885271162739951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_43
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 416
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4267d8728fd8d4a43a636fb0f356b095
+      internalID: 3378689792933126598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_44
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 416
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa84d3fc2d85c2344a861229848d522d
+      internalID: 8754042342708648409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_45
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 416
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8564972a411eb49982c2dc149c417d
+      internalID: -6919576675534096433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_46
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 306
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9806cb79d50854bad71ed449c3108c
+      internalID: -1689851248480171478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_47
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 504
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e5c57fa546cc541a72e26fd99e4e6d
+      internalID: -4650333134995648707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_48
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 416
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bce405bbeeb3d4b8bd74a3b2147134
+      internalID: -5255698622239841972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_49
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 416
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acef934e3bc6d041806be3f46bb9730
+      internalID: -8332332397622076338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_50
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 324
+        width: 175
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5347663, y: 0.26001656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8e7cfdc869cce4faff2cf4d65abafe
+      internalID: -8919287342139344904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_53
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 424
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a108d80829cb2684dbcb8bd6e36ee092
+      internalID: 4795820505911329838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_55
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 416
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ec0d104a8e7b94397a95d4a7de3427
+      internalID: 3158605107300898442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_56
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 306
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a475d121441be43a67d0d84eed32fc
+      internalID: -7043400995325934281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_57
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 404
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa6815eb9759564aa7730f34fcae0e2
+      internalID: -3278654002333966908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_58
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 306
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d04fc358231d6d43ba10f3c8c2ed86d
+      internalID: 2847052629648628421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_59
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 306
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53ef53de86f6b64e97459732ee72498
+      internalID: 5873497250275425359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_60
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 306
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1bf7efcf751eb45b52892ecc009f8e
+      internalID: 3491652188513509959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_61
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 306
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d04b9149116f89498194badde0533d8
+      internalID: 2161534635010244205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_62
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 317
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c786a59d14efd544388578cffccc6377
+      internalID: 7758381039666602264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_63
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 204
+        width: 83
+        height: 105
+      alignment: 9
+      pivot: {x: 0.52996606, y: 0.1091653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e0946f63092114ca14cca63f8e5d34
+      internalID: 2681044975695217820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_65
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 195
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4a292a83d6ada4faa736fbd0b0995d
+      internalID: 7366758041475234840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_66
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 195
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e738a5cfd046e044ad95d4459ade36e
+      internalID: -6649045959968972000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_67
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 296
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b400171c08463641bcec855845e64cb
+      internalID: -4697368348529754546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_68
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 296
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45af42145c90844fbf9db672169b072
+      internalID: 7066322796558963873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_69
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 195
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26f1f79888823647b9e93712199ac3d
+      internalID: 5106859417878174997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_70
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 195
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdaaa0160dcda24c80ed626a5e4b8d6
+      internalID: -3498535644278170553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_72
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 195
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcd36cd7e54299439d76a6a0b4cfe76
+      internalID: -2683817847969299562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_73
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 284
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4b0cc29f6b6c74d9bfeaa8fff09246
+      internalID: 939194328672119873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_74
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 195
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ddba3d0edcd474eb831d9c0a7078df
+      internalID: -9005941743846708174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_75
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 195
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2ea5f85c4337d4b9fa6c8f84232cc4
+      internalID: -8509142898068529159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_76
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 195
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1f9c854e47e3847bba6c7ffd91b8eb
+      internalID: -7715904366478007996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_77
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 195
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c92c5cae178c9448823fd978441f5b
+      internalID: 8943777379193078921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_78
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 212
+        width: 4
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f87e358d8448143a0917a37b1fba9b
+      internalID: 8410954493398025872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_80
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 85
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce67c85a2b3e4847803962f55f530c9
+      internalID: 8538057130738464025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_81
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 85
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f430567200c0594982a50a3d58eb9ce
+      internalID: 8570599766291701022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_82
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 85
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c36ee19f444374eb92c860c21a3c02
+      internalID: -4365600608719203610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_83
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 86
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09619e18e927ce74fb3518b11f11529f
+      internalID: -282182951688234944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_86
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 709
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362bdae72156afd43a713018bb621536
+      internalID: 6929244408303612666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_64
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 306
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f50e579316f7fe4eba28d8b06b134bd
+      internalID: 4232227179155683028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_87
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 306
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312ae78b1a9834748873a9cf070b7a35
+      internalID: 783617963475873861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_88
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 306
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0314000f1ccd7c46ac64a4a9f2bfaf9
+      internalID: 4633078134347348667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_89
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 416
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618b6863ba426774aa6474cd91ff51e2
+      internalID: -1034681144735447496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_90
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 710
+        width: 91
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5119186, y: 0.21538559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba6b929211d7ef4d9ff48699259875e
+      internalID: -7216186371891844883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_91
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 203
+        width: 83
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5249729, y: 0.10126939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29cf53e1336e93429bebc44ea055d26
+      internalID: 2839057409088504812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_92
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 203
+        width: 83
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5149838, y: 0.10916501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daefc70318893944c90c6948d861cffc
+      internalID: -5357434084597118512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_71
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 106
+        width: 23
+        height: 21
+      alignment: 9
+      pivot: {x: 0.47188136, y: 0.26393455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9b7c2934a8b944e81a3b25a263b20f
+      internalID: -3182124356462386888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_79
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 106
+        width: 25
+        height: 21
+      alignment: 9
+      pivot: {x: 0.51724124, y: 0.24340712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bc982970424634a8b9d53538de55f2
+      internalID: -4381636430874408857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_84
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 131
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.60776097, y: 0.23273316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b782f3ff6790b1f4b8629fbff3ab4d91
+      internalID: -5505874729321193748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_85
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 132
+        width: 23
+        height: 24
+      alignment: 9
+      pivot: {x: 0.55622137, y: 0.2395579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8fc07892acc6944a87335f2276c700
+      internalID: 3028561791874310414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_93
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 161
+        width: 37
+        height: 21
+      alignment: 9
+      pivot: {x: 0.47649652, y: 0.29296222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4e1b5022b23584d8506b38dbb05f98
+      internalID: 2290988570548258863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_94
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 136
+        width: 36
+        height: 45
+      alignment: 9
+      pivot: {x: 0.55388385, y: 0.2317749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e3cffed60736740b0d89edb291d636
+      internalID: -5611018257824996331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_95
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 82
+        width: 44
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5195923, y: 0.18866746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0d88cbad4b7fc47a7bd2a596b39b0f
+      internalID: -2387193213735097712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowy-Top-Down-2D-Game-Tileset_96
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 108
+        width: 60
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5722776, y: 0.14365847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b12d9b9ebc72794fb54930f8439aaff
+      internalID: 5138648865967916981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

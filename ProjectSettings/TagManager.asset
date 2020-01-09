@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Obstacle
+  - Road
+  - Building
+  - Enemy
+  - Bullet
+  - EnemyDetector
+  - Tower
+  - Post processing
+  - WalkingEnemyDetector
+  - FlyingEnemyDetector
+  - WalkingEnemy
+  - FlyingEnemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1843288733
+    locked: 0
+  - name: Environment
+    uniqueID: 2073878315
+    locked: 0
+  - name: Buildings
+    uniqueID: 1747003953
+    locked: 0
+  - name: Enemies
+    uniqueID: 3380238991
+    locked: 0
+  - name: Near layer
+    uniqueID: 3630171765
+    locked: 0

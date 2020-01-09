@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 917db41eb0a1f8d4e93915fc8103e663, type: 3}
+  m_Name: Wave sample
+  m_EditorClassIdentifier: 
+  possibleEnemies:
+  - enemy: {fileID: 5724606614609645882, guid: 35c34b753d881394aaed526f497964e6, type: 3}
+    difficulty: 0.05
+  - enemy: {fileID: 2224001497573854590, guid: 1206d7af0813a8543a58f023cf1cd837, type: 3}
+    difficulty: 1
+  - enemy: {fileID: 2619220818719330306, guid: d4906252e5390a64185898c053c52618, type: 3}
+    difficulty: 0.5
+  difficultyCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 2.3378794
+      outSlope: 2.3378794
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.074406415
+      value: 0.17395324
+      inSlope: 0.9524075
+      outSlope: 0.9524075
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1554739
+      value: 0.13884579
+      inSlope: 0.5826848
+      outSlope: 0.5826848
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.26367277
+      value: 0.31179455
+      inSlope: 0.42239362
+      outSlope: 0.42239362
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.35732043
+      value: 0.24121729
+      inSlope: 0.7507452
+      outSlope: 0.7507452
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.4668755
+      value: 0.48827899
+      inSlope: 0.51762676
+      outSlope: 0.51762676
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.5697803
+      value: 0.3627471
+      inSlope: 0.77057505
+      outSlope: 0.77057505
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.69827855
+      value: 0.71753514
+      inSlope: 1.0520141
+      outSlope: 1.0520141
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.86248684
+      value: 0.60964936
+      inSlope: 1.0908182
+      outSlope: 1.0908182
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 2.8386421
+      outSlope: 2.8386421
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 1
+    m_PostInfinity: 1
+    m_RotationOrder: 4
+  enemiesRangeInWave: 0
+  difficultyStep: 0.2
+  enemiesAmount: 40
